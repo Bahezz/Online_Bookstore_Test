@@ -73,7 +73,7 @@ This project is a fully functional backend for an **Online Bookstore**, built wi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/OnlineBookstoreAPI.git
+git clone https://github.com/Bahezz/Online_Bookstore_Test.git
 cd OnlineBookstoreAPI
 
 ```
@@ -84,7 +84,7 @@ Open the `appsettings.json` file and add your PostgreSQL connection string:
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Port=5432;Database=BookstoreTestDb;Username=your_username;Password=your_password"
+  "LocalConnection": "Server=localhost;Port=5432;Database=BookstoreTestDb;Username=your_username;Password=your_password"
 },
 
 

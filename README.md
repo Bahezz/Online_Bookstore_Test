@@ -74,7 +74,6 @@ This project is a fully functional backend for an **Online Bookstore**, built wi
 
 ```bash
 git clone https://github.com/Bahezz/Online_Bookstore_Test.git
-cd OnlineBookstoreAPI
 
 ```
 
